@@ -1,0 +1,7 @@
+{
+  "productos": [
+    { "id": "1", "nombre": "Tabla Creature Logo 8.25", "categoria": "Tabla", "precio": 1200.0, "stock": 5, "esImportado": true },
+    { "id": "2", "nombre": "Ruedas Spitfire Formula Four 56mm 99a", "categoria": "Ruedas", "precio": 850.0, "stock": 12, "esImportado": false }
+  ],
+  "usuarios": []
+}
